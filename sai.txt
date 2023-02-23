@@ -3,3 +3,4 @@ HIVE:
 2.External Tables
 3.Partiting
 4.Bucketing
+---------------------
